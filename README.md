@@ -14,7 +14,7 @@ O projeto foi estruturado em três etapas:
 - **Numpy**
 - **Pandas**: para manipulação de dados
 - **Matplotlib e Seaborn**: para visualização dos dados
-- **Statsmodels**: para modelagem 
+- **Statsmodels**: para análise estatística e modelagem 
 - **NLTK e WordCloud**: para análise de texto
 
 
